@@ -1,0 +1,31 @@
+.raqam {
+    color: white;
+    font-size: 58px;
+    width: 500px;
+    background: gray;
+    border-radius: 10px;
+
+}
+
+body {
+    margin-top: 200px;
+    background: black;
+}
+
+.start {
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background: blue;
+    padding: 10px 10px;
+    width: 250px;
+}
+
+.reset {
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background: green;
+    padding: 10px 10px;
+    width: 250px;
+}
